@@ -2,6 +2,7 @@ apply plugin: 'java'
 
 // by default targetCompatibility := sourceCompatibility
 sourceCompatibility = 1.7
+//
 
 sourceSets {
     test {
